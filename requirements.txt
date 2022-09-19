@@ -1,0 +1,14 @@
+### dependency
+streamlit
+notebook
+nltk
+sklearn
+mlflow
+PyYAML
+pickle5
+pathlib
+opendatasets
+requests
+streamlit
+### local packages -
+-e . 
